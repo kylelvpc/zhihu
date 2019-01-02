@@ -1,5 +1,5 @@
 ## Laravel-Zhihu
-基于**Laravel5.3** 开发
+基于**Laravel5.3** 开发【这个纯属测试】
 
 ## 前言
 基于 [laravist](https://www.laravist.com/)社区知乎系列项目
